@@ -30,7 +30,8 @@ const styles = StyleSheet.create({
     alignSelf: 'stretch',
     backgroundColor: '#FFFFFF',
     padding: 20,
-    margin: 20,
+    marginVertical: 10,
+    marginHorizontal: 20,
     borderRadius: 5,
   },
   title: {
